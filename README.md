@@ -151,6 +151,34 @@ Manager of R&D and custom product software teams with customer-facing experience
 |[Finding Objects Using Canny Edge Detection](https://www.edge-ai-vision.com/2013/05/april-2013-embedded-vision-summit-technical-presentation-finding-objects-using-canny-edge-detection-eric-gregori-bdti/)|Embedded Vision Summit|2013|
 |[Hands-on Learning: Platforms to Teach Programming](https://www.nxp.com/files-static/training_pdf/WBNR_FSLBOT.pdf)|Robotics Summit|2011|
 
+### Patents
+
+|Title|Grant Date|
+|-----|----------|
+|https://patents.google.com/?inventor=Eric+Gregori| | |
+|[Movable barrier operator system display method and apparatus](https://patents.google.com/patent/US8345010B2/en)|2013-01-01|
+|[Transmission of data including conversion of ternary data to binary data](https://patents.google.com/patent/US10944559B2/en)|2021-03-09|
+|[Method and apparatus for monitoring a movable barrier over a network](https://patents.google.com/patent/US6998977B2/en)|2006-02-14|
+|[Movable barrier operator auto-force setting method and apparatus](https://patents.google.com/patent/US7679301B2/en)|2010-03-16|
+|[A method and apparatus for facilitating the transmission of ternary movable barrier drive information](https://patents.google.com/patent/DE102006003808B4/en)|2019-09-26|
+|[System and method for adapting to barrier nuisances and obstructions](https://patents.google.com/patent/US7132813B2/en)|2006-11-07|
+|[Movable barrier operator operating parameter transfer method and apparatus](https://patents.google.com/patent/US7724126B2/en)|2010-05-25|
+|[Method and apparatus to facilitate transmission of an encrypted rolling code](https://patents.google.com/patent/USRE48433E1/en)|2021-02-09|
+|[Movable barrier operator auto force setting method and apparatus](https://patents.google.com/patent/GB2446315B/en)|2008-10-08|
+|<!--o-->[JTAG server](https://patents.google.com/patent/US20030225566A1/en)| |
+|<!--o-->[Method and apparatus to facilitate transmission of ternary movable barrier operator information](https://patents.google.com/patent/MXPA06001168A/en)| |
+|<!--o-->[Barrier movement arrangement human interface method and apparatus](https://patents.google.com/patent/US20040212498A1/en)| |
+|<!--o-->[Movable barrier operator with an obstacle detector](https://patents.google.com/patent/US20050207616A1/en)| |
+|<!--o-->[Barrier movement operator human interface method and apparatus](https://patents.google.com/patent/US20050020208A1/en)| |
+|<!--o-->[Barrier operator having synthesised speech output](https://patents.google.com/patent/GB2414514A/en)| |
+|<!--o-->[Applying encrypted rolling code to wired communication links, preferably for garage door openers](https://patents.google.com/patent/GB2481532A/en)| |
+|<!--o-->[Method and Apparatus to Facilitate Wireline Transmission of an Encrypted Rolling Code](https://patents.google.com/patent/US20110317835A1/en)| |
+|<!--o-->[Movable barrier operator compressed information method and apparatus](https://patents.google.com/patent/WO2005065316A3/en)| |
+|<!--o-->[Control of a Movable Barrier with Obstacle Detection based upon a Runtime Compensated Force Threshold Value](https://patents.google.com/patent/GB2447171A/en)| |
+|<!--o-->[Transmitter with adaptable display](https://patents.google.com/patent/AU2007202330A1/en)| |
+|<!--o-->[System and method for determining barrier motor parameters without using sensors](https://patents.google.com/patent/US20070075669A1/en)| |
+|<!--o-->[Self-healing passpoint-facilitated method and apparatus](https://patents.google.com/patent/US20050108944A1/en)| |
+
 <br>
 
 <br>
