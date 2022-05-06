@@ -173,11 +173,4 @@
 
 <br>
 
-This resume was generated using [ResumeBuilder](https://github.com/egregori3/ResumeBuilder)
-
-
-
-
-
-
-
+This resume was generated using [ResumeBuilder](https://github.com/egregori3/ResumeBuilder) - ae40343b49021f64e90f0ba5f160d94b5303c9f6
