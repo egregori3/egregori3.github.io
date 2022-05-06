@@ -4,9 +4,10 @@
 
 |Summary|
 | ----- |
-|Creative problem solver, manager, and software architect/engineer with experience across the software development lifecycles, including management, research, C/C++/Python coding, and testing.  History of solving difficult technical problems using sound engineering practices in products ranging from small embedded systems to large AWS cloud-based systems. Experienced software engineering manager with a record of building strong teams and completing projects on time.<br> 
-Software architect/engineer with extensive experience developing sensor (I2C, SPI, Modbus) and communications (Ethernet, USB, PCIe, WiFi, BLE, 802.15.4, DMA) drivers for Linux, FreeRTOS, QNX, and bare metal real-time embedded systems. Problem solver with a demonstrated history of using scopes, logic analyzers, protocol analyzers, and JTAG tools for debugging tough problems where the software meets the hardware on ARM Cortex-AXX SOCs (Analog Devices, Qualcomm, Nvidia, i.MX, Xilinx) and microcontrollers (MSP430, PIC32, TI CC3X WiFi).<br>
-Manager of R&D and custom product software teams with customer-facing experience in the embedded Linux, audio, and computer vision product space. Teacher/Trainer of C++, computer vision, embedded Linux, TCP.IP, 802.15.4, and USB.|
+|Embedded software architect/engineer with extensive experience moving data in real-time embedded systems (Software Defined Radio, IoT, mechatronics, audio, and computer vision). Experienced (Linux, FreeRTOS, and bare-metal) I/O driver developer for sensor and host communication (I2C, SPI, Modbus, Ethernet, USB, PCIe, WiFi, BLE, 802.15.4, DMA) with a record of building effective teams and completing projects on time.| 
+|Problem solver with a demonstrated history of using scopes, logic analyzers, protocol analyzers, and JTAG tools for debugging perplexing problems where the software meets the hardware on ARM Cortex-AXX SOCs (Analog Devices, Qualcomm, Nvidia, i.MX, Xilinx) and microcontrollers (MSP430, PIC32, TI CC3X WiFi). History of solving complex technical problems using sound engineering practices in products ranging from small embedded systems to large AWS cloud-based systems.|
+|Skilled across the software development lifecycle, including mentoring/management, research, schematic reviews, board bring-up, C/C++/Python coding, debugging, and testing using scopes, logic analyzers, and protocol analyzers to find hardware issues (and sometimes software issues).|
+
 
 <hr>
 
@@ -31,8 +32,8 @@ Manager of R&D and custom product software teams with customer-facing experience
 |AI/ML|Particle Filters(2+)&nbsp;&nbsp;RASA(2+)&nbsp;&nbsp;NLTK(2+)&nbsp;SciKit-Learn(3+)&nbsp;&nbsp;SpaCy(2+)&nbsp;&nbsp;Pandas(3+)&nbsp;&nbsp;Keras(2+)|
 |||
 |Technologies|embedded-systems(15+)&nbsp;&nbsp;sensor interfacing(11+)&nbsp;&nbsp;motor control(11+)&nbsp;&nbsp;host embedded-system communications(15+)&nbsp;&nbsp;DSP(4+)&nbsp;&nbsp;computer-vision(3+)&nbsp;&nbsp;AI/ML(3+)&nbsp;&nbsp;5GNR(<1)|
-|||
-|Robotics|SLAM(2+)&nbsp;&nbsp;LIDAR(1+)&nbsp;&nbsp;TOF range sensors(1+)&nbsp;&nbsp;Digital Compass(1+)&nbsp;&nbsp;PID(3+)&nbsp;&nbsp;RobotSee(3+)|
+|<!--2-->||
+|<!--2-->Robotics|SLAM(2+)&nbsp;&nbsp;LIDAR(1+)&nbsp;&nbsp;TOF range sensors(1+)&nbsp;&nbsp;Digital Compass(1+)&nbsp;&nbsp;PID(3+)&nbsp;&nbsp;RobotSee(3+)|
 
 <hr>
 
@@ -73,7 +74,7 @@ Manager of R&D and custom product software teams with customer-facing experience
 |<!--1-->||
 |<!--1-->|&bull; Dolby Digital Plus port to **Qualcomm Hexegon** on Android. Worked on a team with Dolby and Qualcomm to port DD+ to Android/ARM/Hexegon.|
 |<!--1-->||
-|<!--1-->|&bull; Developed computer vision algorithm split between **Qualcomm ARM and Hexagon DSP** [Accelerating Computer Vision Applications with the Hexagon DSP](https://www.youtube.com/watch?v=Xpyok6h2YDA}.|
+|<!--1-->|&bull; Developed computer vision algorithm split between **Qualcomm ARM and Hexagon DSP** [Accelerating Computer Vision Applications with the Hexagon DSP](https://www.youtube.com/watch?v=Xpyok6h2YDA).|
 |<!--1-->||
 |<!--1-->Applications|&bull; Ported **GPSd** to Skylight cellular survey application [GPSd](https://gpsd.gitlab.io/gpsd/) to [Skylight](https://epiqsolutions.com/rf-sensing/skylight/).|
 |||
@@ -99,12 +100,12 @@ Manager of R&D and custom product software teams with customer-facing experience
 | ----- | --- | --- |
 |Epiq Solutions|Staff Embedded Linux Software Engineer|09/20 - present|
 |Georgia Tech|Computer Vision, Artificial Intelligence, and Graduate Operating Systems GTA|08/16 - present|
-|SNHU|Adjunct Professor (CS210) C++/Object-Oriented Programming|07/20 - present|
-|Georgia Tech DiLab|Research Scientist / Software Manager (18 month grant ) (remote)|01/19 - 07/20|
+|SNHU|Adjunct Professor C++/Object-Oriented Programming|07/20 - present|
+|Georgia Tech DiLab|Faculty Research Scientist / Software Manager (18 month grant ) (remote)|01/19 - 07/20|
 |Analog Devices|Software Applications Manager: DSP/ARM (remote)|09/14 - 01/19|
-|Tecnova|Senior Embedded Software Engineer/Contract Work|09/13 - 11/15|
-|Berkeley Design Tech|Senior Software Engineer / Embedded Vision Specialist (remote)|08/11 - 09/13|
-|Freescale (NXP)|Senior Software  Applications Engineer|02/05 - 06/11|
+|Tecnova|Senior Embedded Software Engineer|09/13 - 11/15|
+|Berkeley Design Tech|Senior Embedded Vision Software Engineer (remote)|08/11 - 09/13|
+|Freescale (NXP)|Senior i.MX Embedded Linux Applications Engineer|02/05 - 06/11|
 |Chamberlain|Advanced Development Software Engineer|04/02 - 02/05|
 
 ### Education
@@ -165,19 +166,6 @@ Manager of R&D and custom product software teams with customer-facing experience
 |[Movable barrier operator operating parameter transfer method and apparatus](https://patents.google.com/patent/US7724126B2/en)|2010-05-25|
 |[Method and apparatus to facilitate transmission of an encrypted rolling code](https://patents.google.com/patent/USRE48433E1/en)|2021-02-09|
 |[Movable barrier operator auto force setting method and apparatus](https://patents.google.com/patent/GB2446315B/en)|2008-10-08|
-|<!--o-->[JTAG server](https://patents.google.com/patent/US20030225566A1/en)| |
-|<!--o-->[Method and apparatus to facilitate transmission of ternary movable barrier operator information](https://patents.google.com/patent/MXPA06001168A/en)| |
-|<!--o-->[Barrier movement arrangement human interface method and apparatus](https://patents.google.com/patent/US20040212498A1/en)| |
-|<!--o-->[Movable barrier operator with an obstacle detector](https://patents.google.com/patent/US20050207616A1/en)| |
-|<!--o-->[Barrier movement operator human interface method and apparatus](https://patents.google.com/patent/US20050020208A1/en)| |
-|<!--o-->[Barrier operator having synthesised speech output](https://patents.google.com/patent/GB2414514A/en)| |
-|<!--o-->[Applying encrypted rolling code to wired communication links, preferably for garage door openers](https://patents.google.com/patent/GB2481532A/en)| |
-|<!--o-->[Method and Apparatus to Facilitate Wireline Transmission of an Encrypted Rolling Code](https://patents.google.com/patent/US20110317835A1/en)| |
-|<!--o-->[Movable barrier operator compressed information method and apparatus](https://patents.google.com/patent/WO2005065316A3/en)| |
-|<!--o-->[Control of a Movable Barrier with Obstacle Detection based upon a Runtime Compensated Force Threshold Value](https://patents.google.com/patent/GB2447171A/en)| |
-|<!--o-->[Transmitter with adaptable display](https://patents.google.com/patent/AU2007202330A1/en)| |
-|<!--o-->[System and method for determining barrier motor parameters without using sensors](https://patents.google.com/patent/US20070075669A1/en)| |
-|<!--o-->[Self-healing passpoint-facilitated method and apparatus](https://patents.google.com/patent/US20050108944A1/en)| |
 
 <br>
 
