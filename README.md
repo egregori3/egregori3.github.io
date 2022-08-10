@@ -1,98 +1,45 @@
 <h1 align="center">Eric Gregori</h1>
 
-<p align="center">EMGRobotics@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;435 Rosewood Crossing, Lindenhurst, Il&nbsp;&nbsp;(847) 778 - 1229&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/egregori3">Github</a><br><a href="https://www.youtube.com/channel/UCJ2PszfaMtraDvDm61IiAiQ/featured">YouTube</a> &nbsp;&nbsp;&nbsp;&nbsp; www.linkedin.com/in/eric-gregori-6633383 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/user/seeprogrammer">Robots</a></p>
+[Work Experience](https://egregori3.github.io/#h.rfrio24dnk3v)
 
-|Summary|
-| ----- |
-|Embedded software architect/engineer with extensive experience moving data in real-time embedded systems (Software Defined Radio, IoT, mechatronics, audio, and computer vision). Experienced (Linux, FreeRTOS, and bare-metal) I/O driver developer for sensor and host communication (I2C, SPI, Modbus, Ethernet, USB, PCIe, WiFi, BLE, 802.15.4, DMA) with a record of building effective teams and completing projects on time.| 
-|Problem solver with a demonstrated history of using scopes, logic analyzers, protocol analyzers, and JTAG tools for debugging perplexing problems where the software meets the hardware on ARM Cortex-AXX SOCs (Analog Devices, Qualcomm, Nvidia, i.MX, Xilinx) and microcontrollers (MSP430, PIC32, TI CC3X WiFi). History of solving complex technical problems using sound engineering practices in products ranging from small embedded systems to large AWS cloud-based systems.|
-|Skilled across the software development lifecycle, including mentoring/management, research, schematic reviews, board bring-up, C/C++/Python coding, debugging, and testing using scopes, logic analyzers, and protocol analyzers to find hardware issues (and sometimes software issues).|
+[Skill (years)](https://egregori3.github.io/#h.9gt26swypzeh)
 
+[Education](https://egregori3.github.io/#h.431g9wcpqpmc)
 
-<hr>
+[Certifications](https://egregori3.github.io/#h.4l25jfdqtwfo)
 
-|Category|Skill(years)|
-|--------|------------|
-|Programming Languages|C(18+)&nbsp;&nbsp;C++(14+)&nbsp;&nbsp;Python(5+)&nbsp;&nbsp;ARM/NEON(3+)&nbsp;&nbsp;SQL(2)|
-|||
-|Management|teaching/training(10+)&nbsp;&nbsp;engineering manager(6+)&nbsp;&nbsp;JIRA(5+)&nbsp;&nbsp;Agile(2)&nbsp;&nbsp;Scrummaster(2)|
-|||
-|SOC's and microcontrollers|i.MX(4+)&nbsp;&nbsp;ADSP-SC589(4+)&nbsp;&nbsp;NVIDIA Tegra(2+)&nbsp;&nbsp;Xilinx(1+)&nbsp;&nbsp;Qualcomm(<1)&nbsp;&nbsp;MSP430(3+)&nbsp;&nbsp;PIC32(2)&nbsp;&nbsp;TI CC3XXX WiFi(1+)|
-|||
-|Driver Development|SPI(18+)&nbsp;&nbsp;I2C(18+)&nbsp;&nbsp;Ethernet(5+)&nbsp;&nbsp;DMA(5+)&nbsp;&nbsp;PCIe(4+)&nbsp;&nbsp;USB(4+)&nbsp;&nbsp;ADC(4+)&nbsp;&nbsp;802.15.4(2+)&nbsp;&nbsp;modbus(1+)&nbsp;&nbsp;GPS(1+)|
-|||
-|Embedded Linux|ARM Linux(10+)&nbsp;&nbsp;UBoot(10+)&nbsp;&nbsp;Linux board bring-up(7+)&nbsp;&nbsp;Linux driver development(5+)|
-|||
-|Tools|VI/VIM(18+)&nbsp;&nbsp;Git(8+)&nbsp;&nbsp;Buildroot(10+)&nbsp;&nbsp;Yocto(2+)&nbsp;AWS(2)&nbsp;&nbsp;PetaLinux(1+)&nbsp;&nbsp;TI CCS(3+)&nbsp;&nbsp;ADI CCES(4+)&nbsp;&nbsp;MPLAB(2)|
-|||
-|Bare-metal|bare-metal board bring-up and driver development(14+)&nbsp;&nbsp;interrupts(14+)&nbsp;&nbsp;FreeRTOS(5+)&nbsp;&nbsp;QNX(<1)|
-|||
-|Libraries|OpenCV(4+)&nbsp;LWIP(3+)&nbsp;&nbsp;Libsidekiq(1+)&nbsp;&nbsp;Skylight(1+)&nbsp;&nbsp;GPSd(<1)&nbsp;&nbsp;CJson(<1)&nbsp;&nbsp;Django(2+)|
-|||
-|AI/ML|Particle Filters(2+)&nbsp;&nbsp;RASA(2+)&nbsp;&nbsp;NLTK(2+)&nbsp;SciKit-Learn(3+)&nbsp;&nbsp;SpaCy(2+)&nbsp;&nbsp;Pandas(3+)&nbsp;&nbsp;Keras(2+)|
-|||
-|Technologies|embedded-systems(15+)&nbsp;&nbsp;sensor interfacing(11+)&nbsp;&nbsp;motor control(11+)&nbsp;&nbsp;host embedded-system communications(15+)&nbsp;&nbsp;DSP(4+)&nbsp;&nbsp;computer-vision(3+)&nbsp;&nbsp;AI/ML(3+)&nbsp;&nbsp;5GNR(<1)|
-|<!--2-->||
-|<!--2-->Robotics|SLAM(2+)&nbsp;&nbsp;LIDAR(1+)&nbsp;&nbsp;TOF range sensors(1+)&nbsp;&nbsp;Digital Compass(1+)&nbsp;&nbsp;PID(3+)&nbsp;&nbsp;RobotSee(3+)|
+[Publications](https://egregori3.github.io/#h.k0wata9ebt3)
 
-<hr>
+[Patents](https://egregori3.github.io/#h.qexu1wwngcm2)
 
-|Skill|Project Highlights - I am very interested in discussing these and other projects with you.|
-|-----|-------|
-|Management|&bull; Managed a team developing Linux audio applications and drivers for the ADSP-SC589 ARM/DSP [Shark ARM+DSP development board](https://www.analog.com/en/design-center/evaluation-hardware-and-software/evaluation-boards-kits/sharc-audio-module.html).|
-||&bull; As a full-time faculity [research scientist](https://dilab.gatech.edu/eric-gregori/), I Managed a team of graduate students doing **AI/ML** Research and Development of the [Jill Watson](https://dilab.gatech.edu/a-suite-of-online-learning-tools/) automated Teaching Assistant.|
-|||
-|Problem Solving|&bull; Developed an **ARM/NEON (Xilinx)** based [fastmemcpy](https://www.linkedin.com/feed/update/urn:li:activity:6851721609414266880/) for moving data from uncached memory to cached memory in 256bit transfers to achieve near ideal transfer rates.|
-|||
-||&bull; Customized Samsung, NVIDIA, and Intel Linux [PCIe drivers](https://www.linkedin.com/pulse/pcie-eric-gregori/) to work around ADSP-SC589 PCIe errata.|
-|||
-||&bull; Created a custom mutli-core distributed [UDP + Ethernet driver](https://www.linkedin.com/pulse/high-performance-ethernet-using-multiple-cores-eric-gregori/) for the **ADSP-SC589 ARM+DSP** including **DMA based inter-processor comunications** and a custom **high performance Ethernet driver** with port switch using **FreeRTOS and LWIP**. This system was designed to move audio data from a PC host to an embedded system at 1GB/s.|
-|||
-||&bull; Reduced time to create a **custom AI question answering agent** from 1000 hours to 5 hours by developing a knowledge database and **Python/SQL** engine based on research around student/agent interaction [paper](https://dl.acm.org/doi/10.1145/3411764.3445645) and [paper](https://arxiv.org/abs/2112.09616).|
-|||
-||&bull; Extensive **bare-metal and Linux board bring-up** experience solving problems ranging from DDR configuration issues to layout and power supply drooping issues. Years of experience reading schematics and using **scopes, logic analyzers, and protocol analyzers** to find hardware issues (and sometimes software issues).| 
-|||
-|Driver Development|&bull; Developed **Linux I2C platform driver** with char and sysfs user interface for GPS, battery monitoring, and general IO for a **Xilinx** embedded system.|
-|||
-||&bull; Developed **Xilinx, Tegra, and Broadcom Linux I2C drivers** for interfacing to various **sensors: GPS, Battery Fuel Gauge, IO expander, VL6180X time of flight sensor and ICM20948 accelerometer**.|
-|||
-||&bull; Developed ARM Linux device drivers for **inter-processor communications between DSP and ARM over shared memory** for ADSP-SC589 ARM+DSP.|
-|||
-||&bull; Developed custom **ARM Linux PCIe drivers** and **bare-metal root complex and endpoint PCIe drivers** for ADSP-SC589. Extensive use of **PCIe protocol analyzer**.|
-|||
-||&bull; Developed custom **i.MX** LCD and camera (V4L2) Linux device drivers.|
-|||
-|Bare-metal|&bull; Developed **PIC32 and MSP430** firmware for an Ethernet and **Modbus** connected [industrial controller](https://www.ecolab.com/equipment/3d-trasar-solid-cooling-water-system/~/media/205FA936F2E04CF1901D1FDDFD0108B8.ashx). The firmware supports both Ethernet and USB firmware updates with a redundent bootloader, A **PID motor controller, and various I2C + SPI sensors**.|
-|||
-||&bull; Developed MSP430 firmware to read a **3-axis accelerometer** and send the data to an Android device over BLE.|
-|||
-||&bull; Created bare-metal PIC32 and **TI CC32XX WiFi** firmware (bootloaders, over the air update support, RESTful interfaces) for Internet of Things appliances. Including **SPI and I2C drivers for sensor (Accelerometer, temperature)** interface|
-|||
-||&bull; Optimized computer vision algoritms for **multi-core DSP** [Finding Objects Using Canny Edge Detection](https://www.edge-ai-vision.com/2013/05/april-2013-embedded-vision-summit-technical-presentation-finding-objects-using-canny-edge-detection-eric-gregori-bdti/).|
-|<!--1-->||
-|<!--1-->DSP|&bull; Ported and optimized Python **5GNR SIB1 decoder** to C using **FFASN1 and CJson** to [Skylight](https://epiqsolutions.com/rf-sensing/skylight/) cellular scanner application.|
-|<!--1-->||
-|<!--1-->|&bull; Dolby Digital Plus port to **Qualcomm Hexegon** on Android. Worked on a team with Dolby and Qualcomm to port DD+ to Android/ARM/Hexegon.|
-|<!--1-->||
-|<!--1-->|&bull; Developed computer vision algorithm split between **Qualcomm ARM and Hexagon DSP** [Accelerating Computer Vision Applications with the Hexagon DSP](https://www.youtube.com/watch?v=Xpyok6h2YDA).|
-|<!--1-->||
-|<!--1-->Applications|&bull; Ported **GPSd** to Skylight cellular survey application [GPSd](https://gpsd.gitlab.io/gpsd/) to [Skylight](https://epiqsolutions.com/rf-sensing/skylight/).|
-|||
-|<!--1-->|&bull; Developed multi-threaded [LibSidekiq](https://epiqsolutions.com/rf-transceiver/sidekiq/) application for synchronizing captures using multiple radios in real-time.|
-|||
-|<!--1-->|&bull; **OpenCV** on embedded sytems training [OpenCV Training](https://www.bdti.com/MyBDTI/pubs%3ABDTI_ESCSV_2012_Intro_Computer_Vision.pdf)|
-|<!--1-->||
-|<!--1-->AI/ML|&bull; Research and Develop [Agent Smith](https://arxiv.org/pdf/2112.13677.pdf) automated TA training tool. Wrote about 5000 lines of **Python code**.|
-|||
-|<!--1-->|&bull; Research and Develop automated customer support customer agent for Analog Devices based on this [paper](https://smartech.gatech.edu/bitstream/handle/1853/58516/evaluation_of_modern_tools_for_an_omscs_advisor_chatbot%281%29.pdf?sequence=1&isAllowed=y).|
-|||
-|<!--1-->|&bull; Researched and Developed an automated system for generating a conversation agent from a document [paper](https://smartech.gatech.edu/handle/1853/62918).|
-|<!--2-->||
-|<!--2-->Robotics|&bull; **LIDAR** based indoor navigation [Robot](https://youtu.be/_EaqUaZKU1k).|
-|<!--2-->|&bull; **SLAM** using a particle filter [RealTime](https://youtu.be/97D_NAWRghQ) and [Simulated](https://youtu.be/bMHvW4X57I8).|
-|<!--2-->|&bull; **PID controller** [RoboMagellan](https://youtu.be/hwfD_azDoNk).|
-|<!--2-->|&bull; **Computer Vision** [RobotArm](https://youtu.be/FUyy5l8oER4).|
-|<!--2-->|&bull; **Optical Flow Based Navigation** [iRobot Create](https://youtu.be/hTRpWi_nlrQ).|
+[20 years of experience](https://egregori3.github.io/#h.rfrio24dnk3v)
+
+[mentoring/managing](https://egregori3.github.io/#h.qic8xnttervj)
+
+[board bring-up](https://egregori3.github.io/#h.coy6gtaip58v)
+
+[investigating, prototyping](https://egregori3.github.io/#h.qic8xnttervj)
+
+[C(18+ years), C++(8+ years), Python(6+ years)](https://egregori3.github.io/#h.9gt26swypzeh)
+
+[embedded Linux](https://egregori3.github.io/#h.359pivw20m9n)
+
+[IoT](https://egregori3.github.io/#h.oc4d4h5ybhw9)
+
+[FreeRTOS/LWIP](https://egregori3.github.io/#h.oc4d4h5ybhw9)
+
+[research](https://egregori3.github.io/#h.v55dhend225x)
+
+[innovation](https://egregori3.github.io/#h.p1lrpzjy32ay)
+
+[custom product development](https://egregori3.github.io/#h.qic8xnttervj)
+
+[scopes, logic analyzers, protocol analyzers, and JTAG tools for solving challenging board bring-up issues](https://egregori3.github.io/#h.coy6gtaip58v)
+
+[bare-metal](https://egregori3.github.io/#h.coy6gtaip58v)
+
+[device drivers](https://egregori3.github.io/#h.8kfhqajyz96k)
+
 
 ### Experience
 
@@ -167,10 +114,3 @@
 |[Method and apparatus to facilitate transmission of an encrypted rolling code](https://patents.google.com/patent/USRE48433E1/en)|2021-02-09|
 |[Movable barrier operator auto force setting method and apparatus](https://patents.google.com/patent/GB2446315B/en)|2008-10-08|
 
-<br>
-
-<br>
-
-<br>
-
-This resume was generated using [ResumeBuilder](https://github.com/egregori3/ResumeBuilder) - ae40343b49021f64e90f0ba5f160d94b5303c9f6
